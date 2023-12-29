@@ -7,7 +7,7 @@ layers:
     - [Y, U, I, O, P]
 
     - [{h: Gui, t: A}, {t: S, h: Alt}, {t: D, h: Ctrl}, {t: F, h: Shift}, G]
-    - [H, {t: J, h: Shift}, {t: K, h: Ctrl}, {t: L, h: Alt}, {t: ";", s: ":", h: Gui }]
+    - [H, {t: J, h: Shift}, {t: K, h: Ctrl}, {t: L, h: Alt}, {t: ";", s: ":", h: Gui}]
 
     - [Z, X, C, V, B]
     - [N, M, ",", ".", /]
